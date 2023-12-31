@@ -128,7 +128,8 @@ Write HTML and CSS code for designing book cover page and execute them
 ```
 
 ## Output:
-![Alt text](<Screenshot from 2023-12-31 13-36-22.png>)
+![Screenshot from 2023-12-31 13-36-22](https://github.com/HARIPRIYASIVAKUMAR/cover-page-design/assets/147477684/81166fbd-33ba-48e4-af78-1cfd4109b4fe)
+
 
 
 ## Result:
